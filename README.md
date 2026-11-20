@@ -5,7 +5,7 @@ Overview:
 A C++ application that manages student examination records using a Singly Linked List.
 
 Features
-1.Add Student
+1. Add Student
 2. Delete Student
 3. Search Student
 4. Update Student Score
@@ -25,9 +25,9 @@ Technologies
 3. GitHub
 
 How to Run
-Open StudentResultManagementSystem.cbp in Code::Blocks.
-Build and Run the project.
-Use the menu to manage student records.
+1. Open StudentResultManagementSystem.cbp in Code::Blocks.
+2. Build and Run the project.
+3. Use the menu to manage student records.
 
 Author :
 Bishe Baada
